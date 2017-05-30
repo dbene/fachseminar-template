@@ -23,12 +23,18 @@ Um sicherzustellen, dass der Text an der richtigen Stelle unterbrochen wird, sol
 ```tex
 
 \begin{figure}[H]
-\centering
-\includegraphics[width=5cm]{fhbielefeld_logo.png}
-\caption{Write some caption here}\label{visina8}
-\vspace{-12pt}
+    \centering
+    \includegraphics[width=5cm]{fhbielefeld_logo.png}
+    \caption{Write some caption here}\label{visina8}
+    \vspace{-12pt}
 \end{figure}
 
 ```
 
 Das Attribut *vspace* sorgt für den passendeb Abstand zum nachfolgenden Absatz
+
+
+## Footnotes
+```tex
+Tatsache\footnote{Text}
+```
