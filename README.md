@@ -1,6 +1,9 @@
 # fachseminar-template
 Dies ist eine Latex-Vorlage für die 3. International Students Conference
 
+## Word
+Eine Word Vorlage befindet sich im Unterordner "word".
+
 ## Table
 Um sicherzustellen, dass der Text an der richtigen Stelle unterbrochen wird, sollte vor und nach der Tabelle je eine Leerzeile stehen.
 ```tex
