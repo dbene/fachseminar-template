@@ -33,7 +33,7 @@ bottom=20mm
 \fancypagestyle{firststyle}
 {
    \fancyhf{}
-   \lhead{3rd International Students Conference - FH Bielefeld Campus Minden}
+   \lhead{1st International Students Conference - FH Bielefeld Campus Minden}
    \rhead{\includegraphics[width=2cm]{fhbielefeld_logo}}
    \rfoot{Seite \thepage}
 }
